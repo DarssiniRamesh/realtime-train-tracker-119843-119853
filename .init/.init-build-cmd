@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/realtime-train-tracker-119843-119853/train_tracking_frontend"
+}

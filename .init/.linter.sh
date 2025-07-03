@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/realtime-train-tracker-119843-119853/train_tracking_frontend
+flutter analyze
+
